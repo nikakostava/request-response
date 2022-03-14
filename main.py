@@ -5,8 +5,8 @@ links = [
         "links example"
         ]
 
-
 n=0
+
 for i in links:
     n+=1
     try:
